@@ -116,6 +116,7 @@ public class KNN_kFold{
         System.out.println(no_Of_Folds + "-fold cross validation");
         System.out.println("Final Accuracy: " + accuracy/folds + "\n\n");
         System.out.println("Folds:" + folds);
+        
     }
 }
 
